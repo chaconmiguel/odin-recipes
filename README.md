@@ -1,1 +1,2 @@
 # odin-recipes
+This will be a project showing eveything i have learned about Git, Github, and HTML so far. The goal for this project is to create a simple webiste with links to a few recepies. At first it will simply be built with HTML but the goal is to later revist and make it looks better adding some CSS.
